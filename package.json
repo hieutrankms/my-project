@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieutrankms/my-project.git"
+  },
+  "keywords": [
+    "myProject"
+  ],
+  "author": "HieuTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieutrankms/my-project/issues"
+  },
+  "homepage": "https://github.com/hieutrankms/my-project#readme"
+}
